@@ -8,7 +8,7 @@
 /* body font style */
 body {
     font-family: 'Roboto', sans-serif;
-    background-color: #c8c8c8f9
+    background-color: #f6f8f9;
 }
 
 /* header style */
@@ -30,9 +30,6 @@ body {
     vertical-align: text-bottom;
 }
 
-/* main section style settings */
+/* nav section style settings */
 
-main {
-
-}
 
