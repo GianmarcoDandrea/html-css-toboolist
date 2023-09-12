@@ -8,13 +8,16 @@
 /* body font style */
 body {
     font-family: 'Roboto', sans-serif;
+    background-color: #c8c8c8f9
 }
 
 /* header style */
 
 .container-logo {
     padding: 20px;
+    width: 100vw;
     display: inline-block;
+    background-color: white;
 }
 
 .logo {
@@ -29,5 +32,7 @@ body {
 
 /* main section style settings */
 
+main {
 
+}
 
