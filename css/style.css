@@ -67,8 +67,8 @@ main {
     background-color: white;
     border-radius: 10px;
 }
-
-.main-list {
+ /* list style */
+.main-list, .sub-list {
     list-style-type: none;
 }
 
@@ -76,3 +76,27 @@ main {
     font-size: 25px ;
 }
 
+.sub-list{
+    font-size: 20px;
+}
+
+/* checkbox style */
+.checkbox {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    line-height: 25px;
+    text-align: center;
+    border-radius: 50%;
+    border: 1px solid;
+}
+
+.check {
+    color: green;
+    border-color:green;
+}
+
+.ballots {
+    color: red;
+    border-color: red;
+}
