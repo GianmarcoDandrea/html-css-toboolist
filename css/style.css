@@ -24,12 +24,37 @@ body {
     width: 70px;
 }
 
-.title{
+.title {
     font-size: 50px;
     font-weight: bolder;
     vertical-align: text-bottom;
 }
 
 /* nav section style settings */
+ 
+nav {
+    width: 75%;
+    margin: 50px auto 10px auto; 
+    padding: 15px 80px;
+    background-color: white;
+    border-radius: 10px;
+}
 
+.add {
+    padding: 7px 10px;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.task-button {
+    border: none;
+    background-color: #47adf1;
+    color: white;
+}
+
+.section-button {
+    border: 1px #c8ced3 solid;
+    color: #c8ced3;
+    background-color: white;
+}
 
