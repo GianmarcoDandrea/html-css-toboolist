@@ -70,6 +70,8 @@ main {
  /* list style */
 .main-list, .sub-list {
     list-style-type: none;
+    padding: 3px;
+    margin: 5px;
 }
 
 .list-title {
@@ -96,7 +98,22 @@ main {
     border-color:green;
 }
 
-.ballots {
+.cross {
     color: red;
     border-color: red;
+}
+
+/* type of task signs style */
+
+.type-of-task{
+    color:white;
+    border: none;
+    font-size: 15px;
+    padding: 7px;
+    border-radius: 5px;
+
+}
+
+.editorial{
+    background-color: #45abea;
 }
