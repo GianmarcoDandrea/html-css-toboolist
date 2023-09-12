@@ -1,11 +1,29 @@
 /* margin , padding , box-sizing reset */
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
 /* body font style */
-body{
+body {
     font-family: 'Roboto', sans-serif;
 }
+
+/* header style */
+
+.container-logo {
+    padding: 20px;
+    display: inline-block;
+}
+
+.logo {
+    width: 70px;
+}
+
+.title{
+    font-size: 50px;
+    font-weight: bold;
+    vertical-align: text-bottom;
+}
+
