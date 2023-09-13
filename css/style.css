@@ -14,20 +14,22 @@ body {
 /* header style */
 
 .container-logo {
-    padding: 20px;
+    padding: 0 15px;
     width: 100vw;
+    height: 100px;
     display: inline-block;
+    line-height: 100px;
     background-color: white;
 }
 
 .logo {
-    width: 70px;
+    vertical-align: middle;
 }
 
 .title {
     font-size: 50px;
     font-weight: bolder;
-    vertical-align: text-bottom;
+    vertical-align: middle;
 }
 
 /* nav section style settings */
