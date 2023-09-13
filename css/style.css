@@ -49,7 +49,7 @@ nav {
 }
 
 .task-button {
-    border: none;
+    border: transparent;
     background-color: #47adf1;
     color: white;
 }
